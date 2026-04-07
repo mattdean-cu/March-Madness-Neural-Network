@@ -18,6 +18,8 @@ The main goal of the project is to build a matchup-based prediction system. Inst
 ---
 
 ## Dataset
+https://www.kaggle.com/competitions/march-machine-learning-mania-2026/data
+
 This project uses the NCAA March Madness dataset from Kaggle. The dataset includes historical information for both men's and women's Division I college basketball teams, such as:
 
 - Team names and IDs
