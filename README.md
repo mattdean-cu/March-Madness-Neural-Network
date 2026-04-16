@@ -1,4 +1,4 @@
-# March Madness Winner Prediction using Neural Networks
+# March Madness Winner Prediction using Neural Networks - Matt Dean, Shona Doyle
 
 ## Overview
 This project uses machine learning to predict winners of NCAA March Madness tournament games. The model is trained on historical NCAA basketball data and learns patterns from regular season performance, tournament seeds, and other team-level statistics in order to estimate the probability that one team will beat another.
