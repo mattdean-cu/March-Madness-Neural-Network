@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="CribbRE" />
+          <option value="CribbRE" />
+          <option value="CribbRE" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="null:urllib3:2.2.3" />
+          <option value="null:starlette:0.27.0" />
+          <option value="null:python-jose:3.3.0" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="In progress" />
+          <option value="In progress" />
+          <option value="In progress" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
