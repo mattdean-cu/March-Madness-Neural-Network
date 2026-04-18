@@ -295,5 +295,3 @@ if __name__ == "__main__":
     # Evaluate
     probs, metrics = evaluate(model, test_data, test_meta)
     plot_training(history)
-
-    print("\n✓ Training complete. Next: 05_evaluate.py for deeper analysis.")

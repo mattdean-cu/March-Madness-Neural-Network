@@ -20,7 +20,6 @@ Output:
   - figures/championship_odds.png  — bar chart of top 20 teams
   - figures/win_probability_heatmap.png — probability of reaching each round
 
-Author: [Your Name]
 """
 
 import os

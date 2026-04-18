@@ -6,8 +6,6 @@ Generates a single combined figure showing all 6 rounds of the
 Save to figures/2026_all_rounds.png
 
 Run AFTER 06_predict_2026.py has generated the individual figures.
-
-Author: [Your Name]
 """
 
 import os

@@ -176,4 +176,3 @@ if __name__ == "__main__":
     df = build_matchup_dataset(features, tourney)
     df = sanity_check(df)
     save(df)
-    print("\n✓ Dataset built. Next: 04_train_model.py")

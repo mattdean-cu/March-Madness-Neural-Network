@@ -285,4 +285,3 @@ if __name__ == "__main__":
     plot_upset_analysis(test_df, probs, y)
 
     print("\n✓ Evaluation complete. All figures saved to ./figures/")
-    print("  Next: 06_readme.md for documentation")

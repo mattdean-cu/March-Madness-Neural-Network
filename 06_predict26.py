@@ -12,8 +12,6 @@ Key fix vs first attempt:
   - Builds 2026 team features on the fly from MRegularSeasonDetailedResults.csv
     since MNCAATourneySeeds.csv doesn't include 2026 seeds yet.
   - Uses correct TeamIDs verified against MTeams.csv.
-
-Author: [Your Name]
 """
 
 import os
